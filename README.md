@@ -1,4 +1,5 @@
-![Social banner for a5lam](https://github.com/a5lam//a5lam/raw/master/header-banner.gif)
+![Social banner for a5lam]
+<img src="https://github.com/a5lam//a5lam/raw/master/header-banner.gif" href="a5lam.github.io/devfolio" />
 <h1 align='center'> Hi! :wave:</h1>
 <p align='center'>
 I'm Aslam.
